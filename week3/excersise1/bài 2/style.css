@@ -1,0 +1,62 @@
+*{
+	font-family: "lora", sans-serif;
+}
+.container{
+	margin: auto;
+	width: 75%;
+	text-align: center;
+
+
+}
+.pic-inline{
+	display: inline;
+
+}
+.content{
+	display: inline;
+}
+.about{
+	display: inline-block;
+	width: 430px;
+	margin: 15px;
+
+}
+.take_action{
+	display: inline-block;
+	width: 430px;
+	margin: 15px;
+}
+.content{
+	display: inline;
+
+}
+.pic-1{
+	width: 450px;
+	margin: 15px;
+
+}
+.pic-2{
+	width: 450px;
+	margin: 15px;
+
+}
+.font-size{
+	font-size: 25px;
+}
+.font{
+	color: #339966;
+	padding: 15px;
+	font-size: 20px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	
+}
+.footer-1{
+	color: white;
+}
+.footer-2{
+	color: gray;
+}
