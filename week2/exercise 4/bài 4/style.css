@@ -1,0 +1,26 @@
+.container{
+	background-color: white;
+	width: 85%;
+	margin: auto;
+}
+
+.sidebar{
+	float: right;
+	width: 240px;
+	padding: 5px;
+}
+
+.article{
+	float: left;
+	width: 60%;
+}
+
+.content{
+	clear: both;	
+	display: inline-block;
+	margin: 5px 12px;
+}
+
+.border{
+	border-bottom: 1px solid black;
+}
