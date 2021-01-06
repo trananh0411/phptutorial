@@ -1,6 +1,7 @@
 .container{
     background-color: #DAE1E8;
-
+    width: 60%;
+    margin-top: 4%;
 }
 
 .container h3{
@@ -30,7 +31,7 @@ p.sex{
 }
 
 #datepicker{
-    width: 900px;
+    width: 100%;
 }
 
 textarea{
