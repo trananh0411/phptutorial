@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Cho hai số: 15,20</p>
+    <button onclick="solonnhat()">Số lớn nhất là:</button>
+    <p id="somax"></p>
+    <script>
+       for(i=1;i<6;i++)
+        {
+            document.writeln('<br>* * * * *')
+        }
+
+        function solonnhat() {
+        document.getElementById("somax").innerHTML = Math.max(15, 20);
+    }
+    
+       
+    </script>
+</body>
+</html>
